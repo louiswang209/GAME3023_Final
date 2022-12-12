@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0772d1e5154fd6a4a9a77f4aa22ad7d5, type: 3}
+  m_Name: Cheat
+  m_EditorClassIdentifier: 
+  abilityName: Cheat
+  actionSFX: 2
+  effects:
+  - {fileID: 11400000, guid: 0dba450358462324ab95ba5c42d5e7aa, type: 2}
+  - {fileID: 11400000, guid: 3645790511239954da4ea147c68506ea, type: 2}
